@@ -1,0 +1,16 @@
+{
+  "name": "29APrA",
+  "type": "package",
+  "blockId": "Nc3wv5pVg0mJnZuqEcTKl",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_29APrA"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
