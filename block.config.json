@@ -3,8 +3,8 @@
   "type": "package",
   "blockId": "Nc3wv5pVg0mJnZuqEcTKl",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/29APrA.git",
+    "ssh": "git@github.com:grgshiji/29APrA.git",
     "branch": "block_29APrA"
   },
   "parentBlockIDs": [],
